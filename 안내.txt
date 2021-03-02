@@ -1,0 +1,9 @@
+공공데이터와 AI챗봇을 이용한 물가 음성안내 앱 서비스
+Audio Guidance Application For Commodity Prices Using Public Data And AI Chatbot
+
+Abstract
+
+The recent price instability has caused price fluctuations in agricultural and fisheries products to
+increase, and consumers buy products based on market marketing or experience and sense without
+exact standards. Therefore, it is a natural language application of AI chetbot and voice recognition
+function that can inform consumers of price index of agricultural products in real time using public data.

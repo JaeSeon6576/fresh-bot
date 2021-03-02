@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/voiton"
+            android:title="음성 톤 변경" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/textup"
+            android:title="글씨 크기 변경" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/rev"
+            android:title="배경색 반전" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/voispd"
+            android:title="소리 속도 변경" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="제작자정보" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="공공데이터포털" />
+        </menu>
+    </item>
+
+</menu>

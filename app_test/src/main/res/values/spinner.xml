@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="location">
+        <item>서울</item>
+        <item>대전</item>
+        <item>대구</item>
+        <item>울산</item>
+        <item>부산</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
